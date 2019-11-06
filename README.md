@@ -4,6 +4,9 @@
 
 使用Python编写的围棋游戏
 
+![效果图](./Pictures/preview1.png)
+![动画效果](./Pictures/preview2.gif)
+
 ### 1. 开始前
 
 本程序基于tkinter生成GUI，使用前请确保已经安装好tkinter
