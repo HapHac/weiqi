@@ -8,7 +8,7 @@
 
 ![preview1.gif](https://github.com/HapHac/weiqi/blob/master/Pictures/preview1.gif)
 
-更多演示请看[preview](https://github.com/HapHac/weiqi/preview.md)
+更多演示请看[preview](https://github.com/HapHac/weiqi/blob/master/preview.md)
 
 ### 1. 开始前
 
