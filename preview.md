@@ -4,9 +4,9 @@
 
 ![19路启动界面](https://github.com/HapHac/weiqi/blob/master/Pictures/preview2.png)
 
-### 2. 吃子
+### 2. 提子
 
-![吃子](https://github.com/HapHac/weiqi/blob/master/Pictures/preview1.gif)
+![提子](https://github.com/HapHac/weiqi/blob/master/Pictures/preview1.gif)
 
 ### 3. 无气
 
