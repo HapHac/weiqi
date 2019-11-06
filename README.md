@@ -5,7 +5,10 @@
 使用Python编写的围棋游戏
 
 ![效果图](./Pictures/preview1.png)
-![动画效果](./Pictures/preview2.gif)
+
+![动画效果](./Pictures/preview1.gif)
+
+更多演示请看[preview.md](https://github.com/HapHac/weiqi/edit/master/preview.md)
 
 ### 1. 开始前
 
