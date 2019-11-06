@@ -1,4 +1,4 @@
-### 1. 启动界面
+### 1. 界面
 
 ![9路启动界面](https://github.com/HapHac/weiqi/blob/master/Pictures/preview1.png)
 
