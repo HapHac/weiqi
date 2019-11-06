@@ -4,9 +4,9 @@
 
 使用Python编写的围棋游戏
 
-![效果图](https://github.com/HapHac/weiqi/pictures/preview1.png)
+![效果图](https://github.com/HapHac/weiqi/blob/master/Pictures/preview1.png)
 
-![动画效果](https://github.com/HapHac/weiqi/Pictures/preview1.gif)
+![动画效果](https://github.com/HapHac/weiqi/blob/master/Pictures/preview1.gif)
 
 更多演示请看[preview.md](https://github.com/HapHac/weiqi/preview.md)
 
