@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 41623216-傅聪-面向对象程序设计2大作业-围棋游戏
 # 使用Python内置GUI模块tkinter
 from tkinter import *
 # ttk覆盖tkinter部分对象，ttk对tkinter进行了优化
